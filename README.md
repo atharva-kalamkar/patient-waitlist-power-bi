@@ -5,6 +5,9 @@ Interactive Power BI dashboard for visualizing and analyzing key metrics, trends
 
 This repository contains a Power BI dashboard that provides interactive visualizations and insights into the dataset used for analysis. It is designed to help users make data-driven decisions with an intuitive and user-friendly interface.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36b3d6e9-a636-408b-8019-616e7a94f914" />
+
+
 # 🌟 Overview
 
 The goal of this project is to:
