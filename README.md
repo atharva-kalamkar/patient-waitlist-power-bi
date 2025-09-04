@@ -7,6 +7,7 @@ This repository contains a Power BI dashboard that provides interactive visualiz
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36b3d6e9-a636-408b-8019-616e7a94f914" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ae80861-18ef-4098-ab05-8ab838ed1a63" />
 
 # 🌟 Overview
 
